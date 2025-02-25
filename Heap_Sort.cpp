@@ -28,17 +28,6 @@ void heapSort(vector<int>& arr) {
 }
 
 int main(int argc, char* argv[]) {
-    if (argc < 2) {
-        cerr << "Missing input file!\n";
-        return 1;
-    }
-
-    ifstream input(argv[1]);
-    if (!input) {
-        cerr << "Cannot open file: " << argv[1] << endl;
-        return 1;
-    }
-
     vector<int> arr;
     int num;
     while (input >> num) arr.push_back(num);
@@ -54,6 +43,6 @@ int main(int argc, char* argv[]) {
 
     ofstream output("output.txt");  // Ghi kết quả vào file
     output << duration << endl;
-    
+
     return 0;
 }
