@@ -3,6 +3,8 @@ using namespace std;
 using namespace chrono;
 
 int main(int argc, char* argv[]) {
+    ifstream input(argv[1]);  // Đọc file input từ tham số dòng lệnh
+    
     vector<int> arr;
     int num;    
     while (input >> num) arr.push_back(num);
