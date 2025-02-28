@@ -1,0 +1,71 @@
+ 
+Test 01: 
+Quick_Sort.exe : 93 ms 
+Heap_Sort.exe : 330 ms 
+Merge_Sort.exe : 376 ms 
+Cpp_Sort.exe : 94 ms 
+Py_sort : 47 ms 
+ 
+Test 02: 
+Quick_Sort.exe : 173 ms 
+Heap_Sort.exe : 423 ms 
+Merge_Sort.exe : 488 ms 
+Cpp_Sort.exe : 235 ms 
+Py_sort : 47 ms 
+ 
+Test 03: 
+Quick_Sort.exe : 157 ms 
+Heap_Sort.exe : 423 ms 
+Merge_Sort.exe : 474 ms 
+Cpp_Sort.exe : 220 ms 
+Py_sort : 46 ms 
+ 
+Test 04: 
+Quick_Sort.exe : 175 ms 
+Heap_Sort.exe : 416 ms 
+Merge_Sort.exe : 486 ms 
+Cpp_Sort.exe : 219 ms 
+Py_sort : 46 ms 
+ 
+Test 05: 
+Quick_Sort.exe : 172 ms 
+Heap_Sort.exe : 408 ms 
+Merge_Sort.exe : 472 ms 
+Cpp_Sort.exe : 219 ms 
+Py_sort : 47 ms 
+ 
+Test 06: 
+Quick_Sort.exe : 172 ms 
+Heap_Sort.exe : 416 ms 
+Merge_Sort.exe : 502 ms 
+Cpp_Sort.exe : 219 ms 
+Py_sort : 58 ms 
+ 
+Test 07: 
+Quick_Sort.exe : 176 ms 
+Heap_Sort.exe : 408 ms 
+Merge_Sort.exe : 487 ms 
+Cpp_Sort.exe : 219 ms 
+Py_sort : 62 ms 
+ 
+Test 08: 
+Quick_Sort.exe : 199 ms 
+Heap_Sort.exe : 455 ms 
+Merge_Sort.exe : 486 ms 
+Cpp_Sort.exe : 220 ms 
+Py_sort : 47 ms 
+ 
+Test 09: 
+Quick_Sort.exe : 173 ms 
+Heap_Sort.exe : 424 ms 
+Merge_Sort.exe : 471 ms 
+Cpp_Sort.exe : 220 ms 
+Py_sort : 46 ms 
+ 
+Test 10: 
+Quick_Sort.exe : 46 ms 
+Heap_Sort.exe : 320 ms 
+Merge_Sort.exe : 380 ms 
+Cpp_Sort.exe : 103 ms 
+Py_sort : 46 ms 
+ 
